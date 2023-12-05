@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Himanshu Katwal
+- 👀 I’m studying in Inspiria Knowledge Campus, Siliguri
+- 🌱 I’m currently pursuing Bachelors of Science in Data Science and Analytics
+- 💞️ I will  post the daily codes that i learn from scratch to expertise level
+- 📫 Reach me through himanshukatwalnew@gmail.com
