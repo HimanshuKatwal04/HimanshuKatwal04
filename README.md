@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Katwal</h1>
 <h3 align="center">A passionate Data Science and Analytics student from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.amp.dev%2F2020%2F04%2F24%2Fintroducing-code-fi-the-amp-code-from-home-music-mix%2F&psig=AOvVaw1GS1jiQYDd0pZqnhmcZr0P&ust=1702997078566000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCMpfDrloMDFQAAAAAdAAAAABAJ](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/200w.webp?cid=ecf05e47bm47l45g8rbvhz4rotq8amrw5ftuvtmjvmy51qi5&ep=v1_gifs_search&rid=200w.webp&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshukatwal04&label=Profile%20views&color=0e75b6&style=flat" alt="himanshukatwal04" /> </p>
 
 - 🌱 I’m currently learning **C programming**
