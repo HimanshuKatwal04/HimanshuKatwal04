@@ -1,3 +1,4 @@
+![logo](https://github.com/HimanshuKatwal04/HimanshuKatwal04/blob/main/HIMANSHU%20KATWAL%20(1).png)
 <h1 align="center">Hi 👋, I'm Himanshu Katwal</h1>
 <h3 align="center">A passionate Data Science and Analytics student from India</h3>
 
