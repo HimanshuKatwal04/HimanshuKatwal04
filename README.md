@@ -22,6 +22,6 @@
 <h3 align="left">DONATE:</h3>
 <p><a href="https://www.buymeacoffee.com/himanshukatwal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/himanshukatwal" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshukatwal04&show_icons=true&locale=en&layout=compact" alt="himanshukatwal04" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshukatwal04&show_icons=true&locale=en&layout=compact" alt="himanshukatwal04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshukatwal04&" alt="himanshukatwal04" /></p>
