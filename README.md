@@ -1,7 +1,6 @@
 ![logo](https://github.com/HimanshuKatwal04/HimanshuKatwal04/blob/main/HIMANSHU%20KATWAL%20(1).png)
 
-<h1 align="center">Hi 👋, I'm Himanshu Katwal</h1>
-<h3 align="center">A passionate Data Science and Analytics student from India</h3>
+<h1 align="center">Hi 👋,I'm a passionate Data Science and Analytics student from India</h1>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/200w.webp?cid=ecf05e47bm47l45g8rbvhz4rotq8amrw5ftuvtmjvmy51qi5&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshukatwal04&label=Profile%20views&color=0e75b6&style=flat" alt="himanshukatwal04" /> </p>
